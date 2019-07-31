@@ -8,7 +8,7 @@
 
 카메라 두 개를 이용하여 hand gesture 만으로 화면에 보이는 IoT 기기들을 실시간 제어 할 수 있는 시스템 개발
 
-[system]: ./images/system.png	"system.png"
+![system](./images/system.png)
 
  1번 카메라 (RGB-D 카메라) : 사용자의 손 동작 인식
 
@@ -44,12 +44,12 @@
 
 - 매우 빠른 속도로 물체 탐지가 가능한 알고리즘으로 사용자 모니터에 실시간으로 탐지한 화면을 보여주기 위한 알고리즘으로서 채택 
 
-  [yolo]: ./images/yolo.png	"yolo.png"
+  ![yolo](./images/yolo.png)
 
 - 자체적으로 수집한 device의 사진데이터(6종류, 약 2600개)를 30,000회 학습 
 - 30fps 이상의 frame rate로 80% 이상의 정확도로 사물 인식
 
 ##### 3. 개발환경
 
-[env]: ./images/env.png	"env.png"
+![env](./images/env.png)
 
