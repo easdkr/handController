@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  소스.cpp
+c:\users\dunghwa\desktop\yolo\build\project1\server.h(2): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  c:\users\dunghwa\desktop\yolo\build\project1\server.h(2): note: 명령줄 인수: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+c:\opencv_2.4.9\opencv\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\dunghwa\Desktop\yolo\src\yolo_v2_class.hpp(37): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\dunghwa\Desktop\yolo\src\yolo_v2_class.hpp(81): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+소스.cpp(70): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+소스.cpp(83): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+소스.cpp(110): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+소스.cpp(103): warning C4101: 'clntsock' :참조되지 않은 지역 변수입니다.
+소스.cpp(149): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+소스.cpp(177): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+소스.cpp(288): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+소스.cpp(435): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+소스.cpp(403): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+소스.cpp(426): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+소스.cpp(430): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+  코드를 생성하고 있습니다.
+  20 of 942 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Project1.vcxproj -> C:\Users\dunghwa\Desktop\yolo\build\Project1\Project1.exe
+  Project1.vcxproj -> C:\Users\dunghwa\Desktop\yolo\build\Project1\Project1.pdb (Full PDB)

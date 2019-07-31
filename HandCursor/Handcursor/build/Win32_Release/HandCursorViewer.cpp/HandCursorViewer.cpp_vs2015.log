@@ -1,0 +1,4 @@
+﻿  HandCursorViewer.cpp
+src\HandCursorViewer.cpp(535): warning C4800: 'Intel::RealSense::bool32_t': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+  HandCursorViewer.cpp_vs2015.vcxproj -> C:\Users\dunghwa\Documents\RSSDK\Samples\HandCursorViewer.cpp\bin\Win32\HandCursorViewer.cpp.exe
+  HandCursorViewer.cpp_vs2015.vcxproj -> bin\Win32\HandCursorViewer.cpp.pdb (Full PDB)

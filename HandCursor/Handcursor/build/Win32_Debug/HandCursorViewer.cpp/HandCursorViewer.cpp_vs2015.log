@@ -1,0 +1,6 @@
+﻿  main.cpp
+src\main.cpp(552): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+src\main.cpp(577): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+src\main.cpp(792): warning C4800: 'WPARAM': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+  HandCursorViewer.cpp_vs2015.vcxproj -> C:\Users\dunghwa\Documents\visual studio 2015\Projects\Handcursor\bin\Win32\HandCursorViewer.cpp_d.exe
+  HandCursorViewer.cpp_vs2015.vcxproj -> bin\Win32\HandCursorViewer.cpp_d.pdb (Full PDB)

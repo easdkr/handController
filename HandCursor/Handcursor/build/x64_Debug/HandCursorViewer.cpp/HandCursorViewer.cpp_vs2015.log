@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\opencv\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+src\main.cpp(114): warning C4101: 'timer' :참조되지 않은 지역 변수입니다.
+  HandCursorViewer.cpp_vs2015.vcxproj -> C:\Users\dunghwa\Documents\Visual Studio 2015\Projects\Handcursor\bin\x64\HandCursorViewer.cpp_d.exe
+  HandCursorViewer.cpp_vs2015.vcxproj -> bin\x64\HandCursorViewer.cpp_d.pdb (Full PDB)

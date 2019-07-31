@@ -1,0 +1,12 @@
+﻿  HandCursor.cpp
+c:\opencv\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+HandCursor.cpp(43): warning C4101: 'timer' :참조되지 않은 지역 변수입니다.
+  main.cpp
+c:\opencv\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+src\main.cpp(28): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(1850): note: 'inet_addr' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  HandCursorViewer.cpp_vs2015.vcxproj -> C:\Users\dunghwa\Desktop\4학년 1학기\Handcursor\bin\x64\HandCursorViewer.cpp_d.exe
+  HandCursorViewer.cpp_vs2015.vcxproj -> bin\x64\HandCursorViewer.cpp_d.pdb (Full PDB)
