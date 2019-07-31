@@ -8,7 +8,7 @@
 
 카메라 두 개를 이용하여 hand gesture 만으로 화면에 보이는 IoT 기기들을 실시간 제어 할 수 있는 시스템 개발
 
-[system]: ./image/system.png	"system.png"
+[system]: ./images/system.png	"system.png"
 
  1번 카메라 (RGB-D 카메라) : 사용자의 손 동작 인식
 
