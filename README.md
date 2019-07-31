@@ -14,11 +14,11 @@
 
  2번 카메라 (일반 Web-cam) : 사용자 전면에 있는 device들을 촬영
 
- \- 전면의 모니터에는 2번 카메라로 촬영한 device들을 detection & recognition 한 영상 위에 
+ - 전면의 모니터에는 2번 카메라로 촬영한 device들을 detection & recognition 한 영상 위에 
 
    사용자의 손의 위치를 표기한다. 
 
- \- 선택하고자 하는 기기의 위치에서 특정 hand gesture를 이용하여 기기를 선택하고 제어한다. 
+ - 선택하고자 하는 기기의 위치에서 특정 hand gesture를 이용하여 기기를 선택하고 제어한다. 
 
 ##### 2. 구성
 
