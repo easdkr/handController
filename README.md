@@ -39,7 +39,7 @@
 - 제스쳐에 따라 각 장치와 통신 (소켓)
 
 ######  \* yolo (You Only Look Once) : 실시간 물체 탐지 Deep Learning 알고리즘 
-
+https://pjreddie.com/darknet/yolo/
 - **매우 빠른 속도로 물체 탐지** 가 가능한 알고리즘으로 사용자 모니터에 실시간으로 탐지한 화면을 보여주기 위한 알고리즘으로서 채택 
 
   ![yolo](./images/yolo.png)
@@ -51,3 +51,5 @@
 
 ![env](./images/env.png)
 
+## 4. 사용 예시 영상 
+https://www.youtube.com/watch?v=pcIzFRd6YnE
